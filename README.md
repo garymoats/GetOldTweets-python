@@ -21,6 +21,7 @@ pip install -r requirements.txt
   - text (str)
   - date (date)
   - retweets (int)
+  - replies (int)
   - favorites (int)
   - mentions (str)
   - hashtags (str)
